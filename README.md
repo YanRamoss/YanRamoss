@@ -4,7 +4,7 @@ Sou um engenheiro de software apaixonado por desenvolver soluções eficientes e
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=linux,debian,ubuntu,apache,nginx,postman,figma,ps,flask,html,css,sass,tailwind,php,java,maven,spring,js,jquery,c,cs,cpp,ts,py,vue,react,nextjs,npm,nodejs,python,docker,mysql,mongodb,postgresql,git,github,wordpress)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=linux,debian,ubuntu,nginx,postman,figma,ps,flask,html,css,sass,tailwind,php,java,maven,spring,js,jquery,c,cs,cpp,ts,py,vue,react,nextjs,npm,nodejs,python,docker,mysql,mongodb,postgresql,git,github,wordpress)](https://skillicons.dev)
 
 
 ## 📫 Como me Encontrar
