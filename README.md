@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu me chamo Yan Ramos! 👋
 
-<!--
-**YanRamoss/YanRamoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um engenheiro de software apaixonado por desenvolver soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Minhas Habilidades](https://skillicons.dev/icons?i=linux,debian,ubuntu,apache,nginx,postman,figma,ps,flask,html,css,sass,tailwind,php,java,maven,spring,js,jquery,c,cs,cpp,ts,py,vue,react,nextjs,npm,nodejs,python,docker,mysql,mongodb,postgresql,git,github,wordpress)](https://skillicons.dev)
+
+
+## 📫 Como me Encontrar
+
+- **Site**: [www.yanramos.com.br](https://yanramos.com.br/)
+- **GitHub**: [github.com/YanRamoss](https://github.com/YanRamoss/)
+- **LinkedIn**: [linkedin.com/in/yanrms](https://www.linkedin.com/in/yanrms)
+
+Sinta-se à vontade para entrar em contato ou explorar meus repositórios. Estou sempre aberto a novas oportunidades e colaborações!
