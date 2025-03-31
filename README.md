@@ -9,7 +9,7 @@ Sou um engenheiro de software apaixonado por desenvolver soluções eficientes e
 
 ## 📫 Como me Encontrar
 
-- **Site**: [www.yanramos.com.br](https://yanramos.com.br/)
+- **Site**: [yanramos.com.br](https://www.yanramos.com.br/)
 - **GitHub**: [github.com/YanRamoss](https://github.com/YanRamoss/)
 - **LinkedIn**: [linkedin.com/in/yanrms](https://www.linkedin.com/in/yanrms)
 
