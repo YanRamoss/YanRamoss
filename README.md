@@ -4,8 +4,7 @@ Sou um engenheiro de software apaixonado por desenvolver soluções eficientes e
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=linux,debian,ubuntu,nginx,postman,figma,ps,flask,html,css,sass,tailwind,php,java,maven,spring,js,jquery,c,cs,cpp,ts,py,vue,react,nextjs,npm,nodejs,python,docker,mysql,mongodb,postgresql,git,github,wordpress)](https://skillicons.dev)
-
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 ## 📫 Como me Encontrar
 
